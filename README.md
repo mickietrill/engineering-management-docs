@@ -29,6 +29,13 @@ Practical tools for running day-to-day work, planning, and delivery.
 - **[Task Templates](execution/task-templates.md)**  
   Standardized task formats to improve clarity, ownership, and execution.
 
+## Architecture & API Standards
+Standards and guidelines that define technical contracts and long-term system quality.
+
+- **[REST API Design Standards](engineering/rest-api-design-standards.md)**  
+  Organization-wide principles and rules for designing, evolving, and maintaining REST APIs, including resource modeling, error handling, versioning, pagination, and governance.
+
+
 ## Document Principles
 All documents in this repository follow these principles:
 - **Actionable** — designed to be used immediately
