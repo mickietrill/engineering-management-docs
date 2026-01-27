@@ -19,8 +19,7 @@ Core principles that define how teams communicate and collaborate.
 These documents act as organizational-level agreements.
 
 - **[Communication Guidelines](foundations/communication-guidelines.md)**  
-  Rules and principles for written and verbal communication, conflict handling,
-  and escalation.
+  Rules and principles for written and verbal communication, conflict handling, and escalation.
 
 ## Execution
 Practical tools for running day-to-day work, planning, and delivery.
@@ -34,6 +33,9 @@ Standards and guidelines that define technical contracts and long-term system qu
 
 - **[REST API Design Standards](engineering/rest-api-design-standards.md)**  
   Organization-wide principles and rules for designing, evolving, and maintaining REST APIs, including resource modeling, error handling, versioning, pagination, and governance.
+
+- **[Internal Repository README Standards](engineering/internal-repository-readme-standards.md)**  
+  Organization-wide standard for structuring internal repository READMEs, including mandatory sections, microservices requirements, operational documentation, review checklist, and a reusable README template.  
 
 
 ## Document Principles
