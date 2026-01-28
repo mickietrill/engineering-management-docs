@@ -27,6 +27,8 @@ Practical tools for running day-to-day work, planning, and delivery.
   Structured templates for common meetings (planning, syncs, retrospectives, etc.).
 - **[Task Templates](execution/task-templates.md)**  
   Standardized task formats to improve clarity, ownership, and execution.
+- **[Leave Tracking Template](execution/templates/leave-tracking-template/README.md)**  
+  Practical spreadsheet-based template for tracking vacations and leave across teams.  
 
 ## Architecture & API Standards
 Standards and guidelines that define technical contracts and long-term system quality.
