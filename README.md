@@ -30,6 +30,14 @@ Practical tools for running day-to-day work, planning, and delivery.
 - **[Leave Tracking Template](execution/templates/leave-tracking-template/README.md)**  
   Practical spreadsheet-based template for tracking vacations and leave across teams.  
 
+## People & Leadership Practices
+
+Playbooks and frameworks for managing, developing, and supporting engineering teams.
+
+- **[One-on-One Playbook](people/one-on-one-playbook.md)**  
+  Best practices, structures, question frameworks, and templates for running effective one-on-one meetings, including feedback handling,growth discussions, and progress tracking.
+
+
 ## Architecture & API Standards
 Standards and guidelines that define technical contracts and long-term system quality.
 
