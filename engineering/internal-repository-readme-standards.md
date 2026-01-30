@@ -1122,159 +1122,16 @@ This checklist should be used when creating new repositories and during regular 
 
 ## 11. Standard README Template
 
-The following template should be used as a starting point for all new internal repositories. It provides the minimum required structure and ensures consistency across projects. Teams should adapt the content to their specific repository while keeping all mandatory sections.
+To ensure consistency across repositories, a standardized README template is provided.
 
+### Available Template
 
-````text
-# Project Name
+- **[Internal Repository README Template](templates/internal-repository-readme-template.md)**  
+  Standard template for all internal repositories
 
-## Project Overview
+### Usage Guidelines
 
-Short description of what this project/service does and the problem it solves.
-
-## Purpose and Responsibilities
-
-Describe:
-
-- What this repository is responsible for
-- What is explicitly out of scope
-- Key boundaries with other systems or services
-
-## Architecture / High-level Design
-
-Provide a high-level overview of the system.
-
-Include:
-
-- Major components
-- External dependencies
-- Data flows (high level)
-- Integration points
-
-(Optional: add diagrams or links to architecture docs)
-
-## How to Run Locally
-
-### Prerequisites
-
-- Tool/version requirements
-- Dependencies
-
-### Setup Steps
-
-```text
-1. Clone repository
-2. Install dependencies
-3. Configure environment variables
-4. Run the service
-```
-
-### Verification
-
-Explain how to verify the service is running correctly.
-
-## Configuration and Environment Variables
-
-List required and important variables:
-
-```text
-VARIABLE_NAME - description (default: value)
-```
-
-Example:
-
-```text
-DB_HOST - database host
-DB_PORT - database port (default: 5432)
-JWT_SECRET - authentication secret
-```
-
-## API / Interfaces (if applicable)
-
-Describe exposed interfaces:
-
-- API purpose
-- Main endpoints (high level)
-- Link to full API documentation (Swagger/OpenAPI)
-
-## Deployment Overview
-
-Describe:
-
-- Environments (dev/staging/prod)
-- Deployment flow (high level)
-- CI/CD references if applicable
-
-## Monitoring & Logging
-
-Include:
-
-- Monitoring dashboards links
-- Log access links
-- Key health indicators
-
-
-## Dependencies and Integrations
-
-### Internal Services
-
-List internal service dependencies.
-
-### External Services
-
-List third-party APIs/services.
-
-### Databases
-
-List data stores used.
-
-### Infrastructure
-
-List infrastructure dependencies.
-
-For each dependency include:
-
-- Why it exists
-- How it is used
-- Failure impact
-
-## Operational Information
-
-### Environment Differences
-
-Describe key differences between dev/staging/prod.
-
-### Health Checks
-
-List health endpoints and what they verify.
-
-### Rollback Strategy
-
-Describe high-level rollback approach.
-
-### Alerting
-
-Provide alerting references.
-
-## Ownership and Contacts
-
-```text
-Owning team:
-Primary contact:
-Secondary contact:
-On-call rotation:
-Slack/communication channel:
-Service tier / SLA:
-```
-
-## Additional Notes (optional)
-
-Include:
-
-- Performance considerations
-- Security notes
-- Feature flags
-- Common troubleshooting
-- Known limitations
-
-````
+- Use this template for all new repositories
+- Apply it when significantly updating existing READMEs
+- Customize content while keeping all mandatory sections
+- Do not remove required sections without documented exceptions
