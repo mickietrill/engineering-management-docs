@@ -1,0 +1,6 @@
+Date,Task,Hours Worked,Task Link,Total Hours (Day),Rate per Hour,Total Amount,Project
+2026-02-01,Implement login flow,3,https://jira.example.com/TASK-101,3,25,75,Web Platform
+2026-02-01,Fix payment bug,2,https://jira.example.com/TASK-102,5,25,125,Web Platform
+2026-02-02,Create landing page layout,4,https://github.example.com/issue/55,4,25,100,Marketing Site
+2026-02-03,API integration,6,https://jira.example.com/TASK-110,6,25,150,Backend Service
+2026-02-04,Testing & QA,3,,3,25,75,Backend Service
