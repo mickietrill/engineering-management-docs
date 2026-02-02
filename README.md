@@ -29,6 +29,8 @@ Practical tools for running day-to-day work, planning, and delivery.
   Standardized task formats to improve clarity, ownership, and execution.
 - **[Leave Tracking Template](execution/templates/leave-tracking-template/README.md)**  
   Practical spreadsheet-based template for tracking vacations and leave across teams.  
+- **[Part-Time Work Tracking Template](execution/templates/part-time-work-tracking-template/README.md)**  
+  Lightweight and documented template for tracking tasks, hours, projects, and costs of part-time contributors and contractors.  
 
 ## People & Leadership Practices
 
